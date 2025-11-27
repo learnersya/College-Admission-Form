@@ -1,4 +1,4 @@
-name: Build and Push Docker Image-Manual
+name: Build and Push Docker Image-Manual1
 
 on:
   workflow_dispatch:
